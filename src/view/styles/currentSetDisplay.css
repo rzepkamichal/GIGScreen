@@ -1,0 +1,10 @@
+.background {
+    -fx-background-color: #5a626e;
+}
+
+.label {
+    -fx-font-size: 16pt;
+    -fx-font-family: "Tahoma";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}

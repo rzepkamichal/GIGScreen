@@ -1,0 +1,15 @@
+.background {
+    -fx-background-color: #292d33;
+}
+
+.label {
+    -fx-font-size: 16pt;
+    -fx-font-family: "Tahoma";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.search{
+
+	-fx-background-color: white;
+}
